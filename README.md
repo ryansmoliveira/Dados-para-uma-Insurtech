@@ -43,7 +43,7 @@ As bases são unidas via `merge` entre `cisp` (base mensal) e `codDP` (base de d
 
 - Python 3
 - `pandas`, `numpy`, `matplotlib`
-- Power BI
+- Power BI (DAX, Power Query e modelagem de dados)
 
 ## Como executar
 
